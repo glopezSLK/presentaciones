@@ -19,7 +19,7 @@ press **F** key to go fullscreen.
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
 <span style="font-size:0.6em; color:gray">See [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown) for details.</span>
 
-![Press Down Key](assets/down-arrow.png)
+![Press Down Key](down-arrow.png)
 
 
 +++
@@ -39,7 +39,7 @@ The *same syntax* you use to create project
 <span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
 <span style="font-size:0.6em; color:gray">See [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting) for details.</span>
 
-![Press Down Key](assets/down-arrow.png)
+![Press Down Key](down-arrow.png)
 
 +++
 
